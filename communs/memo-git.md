@@ -7,7 +7,7 @@ Il résume les manipulations essentielles pour travailler en ligne de commande, 
 
 ## 🔄 1. Mettre à jour le dépôt local depuis GitHub (pull)
 
-À faire **avant de commencer à travailler**, surtout si j’ai modifié des fichiers en ligne (sur github.com) :
+À faire **avant de commencer à travailler**, **et aussi chaque fois que j’ai modifié quelque chose via le site web GitHub** :
 
 ```bash
 git pull origin main
@@ -76,6 +76,7 @@ git push -u origin main
 ## 📌 Conseils
 
 - Toujours faire un `git pull` avant de commencer
+- Toujours faire un `git pull` si j’ai modifié un fichier depuis l’interface web de GitHub
 - Toujours faire un `git add .` + `commit` avant de faire `git push`
 - Écrire un message de commit **utile** (ex: "Ajout README pour python-sqlite")
 - Ne jamais paniquer : Git garde tout en mémoire 😉
