@@ -1,0 +1,1 @@
+Ce dossier regroupe les éléments graphiques partagés entre jeux.

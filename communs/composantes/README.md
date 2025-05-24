@@ -1,0 +1,1 @@
+Ce dossier contient les définitions des capacités, compétences et familles CXO.

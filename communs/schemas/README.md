@@ -1,0 +1,1 @@
+Ce dossier contient les schémas explicatifs : gameplay, architecture, BD, etc.
