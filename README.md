@@ -39,7 +39,11 @@ PaysDesMerveilles/
 
 ## 🛡️ Licence
 
-- Scripts : sous [licence MIT](./LICENSE-CODE)
-- Textes, images, règles : sous [licence CC BY-NC-ND 4.0](./LICENSE-CONTENU)
+Ce projet est publié sous une licence mixte :
+
+- Scripts, outils et code : **MIT**
+- Textes, visuels, cartes, règles : **Creative Commons BY-NC-ND 4.0**
+
+→ Voir [`LICENSE.md`](./LICENSE.md)
 
 > 📫 Pour toute collaboration, adaptation ou diffusion commerciale, merci de me contacter directement.
